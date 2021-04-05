@@ -15,14 +15,14 @@ The first step is to perform a preliminary cleaning to make the data more manipu
 Then, the hypotheses are raised and the cleaning is followed by a cleaning oriented towards these hypotheses.
 
 The hypotheses selected are:
-### The country with more attacks is Australia
-### The region with more attacks is "Latin America and the Caribbean Sea
-### The most frequent activity is surfing
-### The older the age, the more fatal attacks
-### The trend of attacks tends to increase since 1975
-### The shark that attacks the most is the white shark
+#### The country with more attacks is Australia
+#### The region with more attacks is "Latin America and the Caribbean Sea
+#### The most frequent activity is surfing
+#### The older the age, the more fatal attacks
+#### The trend of attacks tends to increase since 1975
+#### The shark that attacks the most is the white shark
 
-### Visualization and Story-telling
+## Visualization and Story-telling
 Finally, the results are represented visually and some conclusions are drawn. 
 
 
