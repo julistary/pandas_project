@@ -1,4 +1,4 @@
-# Pandas project
+# Pandas Project
 
 <img width=300 src=https://www.creativefabrica.com/wp-content/uploads/2020/11/03/cute-shark-reading-a-book-Graphics-6445506-1-1-580x387.jpg>
 
