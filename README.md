@@ -22,7 +22,7 @@ The hypotheses selected are:
 #### The trend of attacks tends to increase since 1975
 #### The shark that attacks the most is the white shark
 
-## Visualization and Story-telling
+## Visualization and Story-Telling
 Finally, the results are represented visually and some conclusions are drawn. 
 
 
