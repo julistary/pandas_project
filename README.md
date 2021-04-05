@@ -11,7 +11,7 @@ The following libraries are used to verify the hypotheses: `seaborn`, `pandas`, 
 ## Preliminary Cleaning
 The first step is to perform a preliminary cleaning to make the data more manipulable. 
 
-## Hypothesis and cleanliness
+## Hypothesis and Cleanliness
 Then, the hypotheses are raised and the cleaning is followed by a cleaning oriented towards these hypotheses.
 
 The hypotheses selected are:
