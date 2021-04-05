@@ -31,7 +31,7 @@ Finally, the results are represented visually and some conclusions are drawn.
 
 <img width=1000 src="images/2ndh.svg">
 
-#### The region with more attacks is not "Latin America and the Caribbean Sea", it is Northern America
+#### The region with more attacks is not "Latin America and the Caribbean Sea", it is "Northern America"
 
 <img width=1000 src="images/3rdh.svg">
 
